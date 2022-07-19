@@ -1,4 +1,4 @@
 
-if (PIN) then
+if (PINCREATED) then
 print(PIN)
 end
