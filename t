@@ -1,4 +1,4 @@
 
-if (PINCREATED) then
+if (not PINCREATED) then
 print(PIN)
 end
