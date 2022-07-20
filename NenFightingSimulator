@@ -1,2 +1,5 @@
-print(0)
-wait(10)
+i = 0
+repeat
+i = i + 1
+wait(1)
+until (i > 5)
