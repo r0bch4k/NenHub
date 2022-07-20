@@ -1,5 +1,6 @@
 i = 0
 repeat
+print(i)
 i = i + 1
 wait(1)
 until (i > 5)
